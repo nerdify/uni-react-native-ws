@@ -1,5 +1,9 @@
 # UNI RUPAP Workshop React
 - **API:** https://rickandmortyapi.com
+### Run App
+
+- `npm install`
+- `npm start`
 
 ### Docs
 - [React](https://react.dev)
