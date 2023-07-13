@@ -1,4 +1,4 @@
-import { Image, Text, View } from 'react-native';
+import { Image, Text, View } from 'react-native'
 
 export function CharacterItem() {
   return (
@@ -9,5 +9,5 @@ export function CharacterItem() {
       />
       <Text style={{ fontWeight: 'bold', fontSize: 20 }}>Rick Sanchez</Text>
     </View>
-  );
+  )
 }
